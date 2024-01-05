@@ -1,0 +1,40 @@
+Objetivos de aprendizaje del curso
+Comprender cómo Obtener y Transformar (Power Query) puede obtener y combinar datos de una amplia gama de fuentes
+
+Transformar y limpiar datos eficientemente utilizando el Editor de Consultas
+
+Comprender el modelo de datos y DAX
+
+Crear y compartir visualizaciones utilizando Power BI
+
+Semana 1: Obtener y transformar (Power Query)
+Sepa cómo crear consultas para importar datos de diferentes fuentes
+
+Comprender los diferentes tipos de relaciones de consulta
+
+Crear consultas para fusionar y anexar datos
+
+Semana 2: Transformación de datos en el editor de consultas
+Utilice una serie de herramientas para limpiar y transformar datos
+
+Comprender cómo pivotar, despivotar y agrupar datos
+
+Modifique los pasos de la consulta utilizando el lenguaje M
+
+Semana 3: Power Pivot
+Sepa cómo importar datos al modelo de datos
+
+Comprender las relaciones y cómo crearlas
+
+Visualizar datos utilizando PowerPivot y funciones de cubo
+
+Crear medidas utilizando DAX
+
+Semana 4: Introducción a Power BI
+Saber cómo crear un modelo de datos de Power BI
+
+Cree un informe interactivo utilizando una serie de visualizaciones
+
+Utilice DAX para crear tablas, columnas calculadas y medidas
+
+Comprender las opciones para compartir informes de Power BI
