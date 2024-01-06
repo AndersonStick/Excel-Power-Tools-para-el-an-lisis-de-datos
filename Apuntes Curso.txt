@@ -1,4 +1,0 @@
-Como usar datos
-1. Get and prepare
-2. Slice and dice
-3. Present and share
